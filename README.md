@@ -63,8 +63,8 @@ To process and analyse the data effectively, I used a multi-tool pipeline:
 
 ## Project Files
 
-- **[View the Complete SQL Script](https://github.com/MuizzaAdetoro/Loan-Performance-Analysis/blob/main/Loan_Performance_Analysis_SQL_Scripts/)**
-- **[View SQL Query Results](https://github.com/MuizzaAdetoro/Loan-Performance-Analysis/blob/main/SQL_Query_Results/)**
+- **[View the Complete SQL Script](https://github.com/MuizzaAdetoro/Loan-Performance-Analysis/blob/main/Loan_Performance_Analysis_SQL_scripts/)**
+- **[View SQL Query Results](https://github.com/MuizzaAdetoro/Loan-Performance-Analysis/blob/main/Loan_Performance_Analysis_SQL_Query_Results/)**
 ---
 
 ## Dashboard Preview
